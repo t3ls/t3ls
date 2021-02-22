@@ -2,7 +2,7 @@
 
 * 🧐   Interested in full stack security research. Recent focus on cloud security.
 * 💼   Doing internship at Chaitin Tech as Security Engineer.
-* 🎓   Bachelor of Cyberspace Security, BUPT.
+* 🎓   Bachelor of Cyberspace Security, Beijing University of Posts and Telecommunications.
 * 💻   With 4 years' computer science and technology education and 2.5 years' intern working experience.
 
 
