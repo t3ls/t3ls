@@ -1,6 +1,6 @@
 # Hello there 👋
 
-* 🧐   Recent focus on host security.
+* 🧐   Recent focus on HIDS.
 * 💼   Security Engineer at Chaitin Tech.
 * 🎓   Bachelor of Cyberspace Security, Beijing University of Posts and Telecommunications
 
